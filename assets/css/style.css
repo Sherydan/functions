@@ -1,0 +1,20 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+#container-1{
+    background-color: rgb(2, 2, 245);
+}
+
+#container-2{
+    background-color: rgb(158, 46, 46);
+}
+
+#container-3{
+    background-color: rgb(85, 153, 108);
+}
+
+#container-4{
+    background-color: rgb(169, 179, 33);
+}
